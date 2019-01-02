@@ -15,7 +15,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.2.180:3306/ws8001
     username: ws
-    password: Ws123
+    password: '{cipher}AQCrfGbNRnjEM5oxfbO/3CFo8BTADn/UWiX0kRrVrb5f7oQDZV6RShgfGq7yptsurHticAFIGVayBYxkb0Ik8plUo++lgkd2M1wM0ZG+htvNbiDvRwQV2b18H+L75jvAeavXNMgCqc0wk3pFHJhgTcftVGxFr6+SXyaZUp0leEBEoOxMezjDU+h1AO4Yp+Guz4N0RirMc+KiLg5dYlEkb2IiFnC6o5EqWW5HcyOG06LTo+1TntRhFXEY+gVIFe8at9mIxocQL2a1+KHDNd6v6aUoT3/qI5y/7xENbS0jciOgfZoLViF7Cg3Apm2LlS94K4Czdyy1WRFm3lSk1FqDBjAKRL7mlor5FzqHovGt7sK8V0+ywdD1RN5zNKB9FT5hCVY='
     dbcp2:
       min-idle: 5
       initial-size: 5
